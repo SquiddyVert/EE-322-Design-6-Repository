@@ -15,11 +15,11 @@
 
 *Current courses*
 
--Engineering Economics & Project Management
--Engineering Design 6
--Signal Processing
--Image Processing & Coding
--Control Systems
+- Engineering Economics & Project Management
+- Engineering Design 6
+- Signal Processing
+- Image Processing & Coding
+- Control Systems
 
 *Code*
 
